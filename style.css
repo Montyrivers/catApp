@@ -123,3 +123,14 @@ height: 0;
 }
 
 /* footer */
+
+footer{
+  text-align: center;
+}
+
+/* Try me page */
+
+#try-main {
+  height: 70vh;
+}
+
